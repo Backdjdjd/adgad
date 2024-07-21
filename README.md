@@ -14,7 +14,7 @@ powershell
 
 ![Untitled](Spotify-WIN%2073874e20321d470892d960190b359310/Untitled%201.png)
 
-3、等待执行完毕
+3、这里会自动安装，等待即可
 
 ![Untitled](Spotify-WIN%2073874e20321d470892d960190b359310/Untitled%202.png)
 
