@@ -30,4 +30,4 @@ powershell
 
 ![Untitled](Spotify-WIN%2073874e20321d470892d960190b359310/Untitled%205.png)
 
-注：感谢GitHub[**BlockTheSpot](https://github.com/master131/BlockTheSpot)大佬和[BlockTheSpot](https://github.com/mrpond/BlockTheSpot)大佬提供的自动化终端命令。**
+注：感谢GitHub[BlockTheSpot](https://github.com/master131/BlockTheSpot)大佬和[BlockTheSpot](https://github.com/mrpond/BlockTheSpot)大佬提供的自动化终端命令。
